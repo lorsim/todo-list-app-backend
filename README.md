@@ -31,7 +31,7 @@ Ensure that you have the following installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/todo-list-backend.git
+git clone https://github.com/yourusername/todo-list-app-backend.git
 cd todo-list-backend
 ```
 
