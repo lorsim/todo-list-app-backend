@@ -90,8 +90,16 @@ npx prisma generate
 ### 1.5. Run the Application
 Now, you can run the backend server:
 
+To build the application for production, run:
+
 ```bash
-npm start 
+npm run build
+```
+
+Then start the production server:
+
+```bash
+npm start
 ```
 
 or for development:
