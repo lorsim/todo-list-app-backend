@@ -76,7 +76,7 @@ npx prisma init
 Run the following command to apply the Prisma migrations to your database:
 
 ```bash
-npx prisma migrate dev --name init
+npx prisma db push
 ```
 This will create the Task table in your database.
 
@@ -91,7 +91,7 @@ npx prisma generate
 Now, you can run the backend server:
 
 ```bash
-npm start
+npm start 
 ```
 
 or for development:
